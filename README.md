@@ -6,3 +6,7 @@ Sam Ly
 
 - still on part 0
 - working on some git stuff
+
+3/30/2023
+
+- finished part 0
